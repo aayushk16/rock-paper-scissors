@@ -1,4 +1,4 @@
-import random
+import randint from random
 print("------ WELCOME TO ROCK, PAPER & SCISSORS! ----- \n")
 choice = {1: 'Rock', 2: 'Paper', 3: 'Scissors'}
 win = {'Rock': 'Scissors', 'Paper': 'Rock', 'Scissors': 'Paper'}
